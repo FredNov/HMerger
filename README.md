@@ -2,15 +2,16 @@
 
 Houdini python panel tool for batch merge geometry from parent directory
 
-- Batch merge files from parent folder
-- Detect file sequenses								
+- Batch merging files from parent folder
+- Detects file sequenses								
 
   ![Help](Help/Merger_merge.gif)
   
-- Batch convert files to obj 
+- Batch converting files to \*.obj 
 
   ![Help](Help/Merger_convert.gif)
-
+  
+If you spot any bug, please feel free to send me an email at gammany@gmail.com
 
 
 How to Install:

@@ -11,7 +11,7 @@ Houdini python panel tool for batch merge geometry from parent directory
 
   ![Help](Help/Merger_convert.gif)
   
-If you spot any bug, please feel free to send me an email at gammany@gmail.com
+If you spot any bugs, please feel free to send me an email at gammany@gmail.com
 
 
 How to Install:
